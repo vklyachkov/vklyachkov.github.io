@@ -1,0 +1,21 @@
+.OpiButton {
+    max-width: 100%;
+    text-align: center;
+    padding: 10px 20px;
+    font-weight: bold;
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+    border-radius: 11px;
+    transition: all 0.2s;
+}
+
+.OpiButton:active {
+    opacity: 0.4;
+}
+
+.OpiButton ion-icon {
+    padding: 2px;
+    position: relative;
+    top: 2.5px;
+}

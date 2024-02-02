@@ -1,0 +1,28 @@
+.Header {
+    margin: 0px auto 45px auto;
+    padding: 15px 0px;
+    width: 85%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.Header span {
+    position: relative;
+    top: 3px;
+    left: 3px;
+    text-decoration: underline;
+}
+
+.Header a {
+    color: aliceblue;
+    text-decoration: none;
+    padding: 5px;
+    transition: all 0.2s;
+}
+
+.Header a:hover{
+    opacity: 0.8;
+    text-decoration: underline;
+    text-decoration: underline;
+}

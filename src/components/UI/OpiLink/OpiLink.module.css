@@ -1,0 +1,22 @@
+.OpiLink {
+    max-width: 100%;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px 20px;
+    font-weight: bold;
+    background-color: transparent;
+    color: white;
+    border: 1px solid #ffffff;
+    border-radius: 11px;
+    transition: all 0.2s;
+}
+
+.OpiLink:hover {
+    opacity: 0.4;
+}
+
+.OpiLink ion-icon {
+    padding: 2px;
+    position: relative;
+    top: 2.5px;
+}
